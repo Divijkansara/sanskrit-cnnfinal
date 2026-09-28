@@ -1,0 +1,5 @@
+dev_letter_D.p
+*.h5
+*.keras
+__pycache__/
+.ipynb_checkpoints/
